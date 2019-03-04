@@ -8,3 +8,9 @@ nodejs+koa2
 - mysql-pro
 
 实现登录-注册-增-删功能
+
+# 运行环境
+  nodejs
+  `
+  npm run node app.js
+  `
